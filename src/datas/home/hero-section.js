@@ -9,10 +9,10 @@ export const heroData = {
                 url: '#roadmap'
             },
             {
-                text: 'Build on Testnet',
+                text: 'Build on Devnet',
                 class: 'white',
                 type: 'external',
-                url: 'https://docs.celestia.org/nodes/mamaki-testnet'
+                url: 'https://docs.celestia.org/nodes/arabica-devnet'
             }
         ]
 }
