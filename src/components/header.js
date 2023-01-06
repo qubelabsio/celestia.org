@@ -32,9 +32,9 @@ const navigation = [
                 type: 'internal'
             },
             {
-                text: "Build on testnet",
+                text: "Build on devnet",
                 subtext: "Testnet",
-                url: "https://docs.celestia.org/nodes/mamaki-testnet",
+                url: "https://docs.celestia.org/nodes/arabica-devnet",
                 icon: "menu/devnet.svg",
                 type: 'external'
             },
